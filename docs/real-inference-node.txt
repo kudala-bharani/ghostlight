@@ -1,0 +1,31 @@
+{
+  status: 'done',
+  name: 'onnx-community/Qwen2.5-0.5B-Instruct',
+  file: 'tokenizer_config.json'
+}
+{
+  status: 'done',
+  name: 'onnx-community/Qwen2.5-0.5B-Instruct',
+  file: 'config.json'
+}
+{
+  status: 'done',
+  name: 'onnx-community/Qwen2.5-0.5B-Instruct',
+  file: 'onnx/model_quantized.onnx'
+}
+{
+  status: 'done',
+  name: 'onnx-community/Qwen2.5-0.5B-Instruct',
+  file: 'generation_config.json'
+}
+{
+  status: 'done',
+  name: 'onnx-community/Qwen2.5-0.5B-Instruct',
+  file: 'tokenizer.json'
+}
+{
+  status: 'ready',
+  task: 'text-generation',
+  model: 'onnx-community/Qwen2.5-0.5B-Instruct'
+}
+In the quiet of the night, when the world was still, a small, silent creature stirred inside me. I was lying on my bed, feeling the cool air against my skin, and suddenly, there was a soft, metallic click. My heart raced, and then it stopped altogether. I opened my eyes and saw nothing but darkness. When I tried to move, I found myself trapped in a room filled with silence and darkness. There were no windows, no doors, just a wall that seemed to be made of something otherworldly. I could hear the distant sounds of a nearby river, but they seemed to echo through the walls instead. As I began to explore, I came across a small, wooden box nestled among the shadows. Inside, I found a small, ornate brass key. I took it out and examined it closely. It was shiny and smooth, like gold. But what surprised me most was its size - it was larger than any other brass key I had ever seen before.
